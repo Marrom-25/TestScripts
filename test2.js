@@ -1,4 +1,5 @@
-alert("1");
-window.onload = function(){
-    alert("ADS");
-    console.log("HELLO WORLD");
+$(document).ready(function(){
+    alert(1);
+
+    console.log("YEYEYEYEY);
+});
